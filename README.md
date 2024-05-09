@@ -1,5 +1,11 @@
 # FutureSales
 
+## Models:
+  * XGBoost
+  * ARIMA
+  * Linear Regression
+  * Random Forest Regression
+
 ## Sources:
   * [ Predicting Future Sales of Retail Products using Machine Learning ](https://arxiv.org/pdf/2008.07779) 
   * [ ARIMA models for time series forecasting ](https://people.duke.edu/~rnau/arimrule.htm)
